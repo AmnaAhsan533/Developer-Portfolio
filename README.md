@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio website! This is a fully responsive and interactive site built to showcase my projects, services, and contact information. It's designed with modern web standards and a clean, aesthetic user interface.
 
+---
+
 ## 🛠️ Tech Stack
 
 - **HTML5**
@@ -30,4 +32,3 @@ Welcome to my personal portfolio website! This is a fully responsive and interac
 - **Projects** – My featured projects (To-Do, Calculator, Login Page)
 - **Contact** – Email, phone, and form to reach me
 
----
